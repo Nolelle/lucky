@@ -1,0 +1,2 @@
+Number of letters [a-z,A-Z]: 1
+Instance of numbers [0-9]: 486
